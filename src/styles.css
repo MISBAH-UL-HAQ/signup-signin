@@ -25,7 +25,7 @@ html {
 .landing {
   width: 95%;
   height: 90%;
-  background: linear-gradient(to right,#66b2b2 40%, rgba(55, 39, 54, 0.8)),
+  background: linear-gradient(to right, #66b2b2 40%, rgba(55, 39, 54, 0.8)),
     url(./bg1.jpg) center no-repeat;
   border-radius: 2rem;
   box-shadow: 0 1rem 5rem rgba(0, 0, 0, 0.4);
@@ -105,7 +105,7 @@ html {
   font-size: 7rem;
   font-weight: bold;
   text-align: center;
-  color:aquamarine;
+  color: aquamarine;
   margin-top: 6rem;
   text-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.2);
 }
@@ -147,7 +147,7 @@ html {
 }
 
 .contact p a {
-  color: #1d90f5;
+  color:#704264;
 }
 
 .input-group {
