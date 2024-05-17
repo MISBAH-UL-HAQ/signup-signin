@@ -28,6 +28,7 @@ html {
   height: 90%;
   background: linear-gradient(to right, #f9ebc7 0, #92585f60 0),
     url(./bg8.jpg) center no-repeat;
+  background-size: cover;
   border-radius: 2rem;
   box-shadow: 0 1rem 5rem rgba(0, 0, 0, 0.4);
   position: relative;
